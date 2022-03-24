@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @madgrog
 - 👀 I’m interested in Kubernetes, Rancher and Openstack
-- 🌱 I’m currently learning migrating mail services on Kubernetes
+- 🌱 I’m currently migrating mail services on Kubernetes
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
